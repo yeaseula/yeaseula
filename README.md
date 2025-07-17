@@ -22,3 +22,7 @@ Front-End 개발자를 꿈꾸는<br />
 - 꾸준히, 조금씩 스스로 학습하는 습관
 - 🫏 <em>스트레스 관리도 잊지 말기</em>
 
+<br />
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
