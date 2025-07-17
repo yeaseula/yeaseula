@@ -1,8 +1,8 @@
 import feedparser, time
 
-URL="https://velog.io/@somv/posts"
+URL="https://velog.io/@somv/posts/rss"
 RSS_FEED = feedparser.parse(URL)
-MAX_POST=7
+MAX_POST=5
 
 markdown_text = """
 📝 My Latest Blog Posts
