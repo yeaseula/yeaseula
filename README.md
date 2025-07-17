@@ -24,5 +24,7 @@ Front-End 개발자를 꿈꾸는<br />
 
 <br />
 
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+## 😾Learning, my way
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=somvelog)](https://velog.io/@somv)
+<br />
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/list?name=somv)](https://velog.io/@somv)
