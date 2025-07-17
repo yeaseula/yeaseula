@@ -5,8 +5,8 @@ RSS_FEED = feedparser.parse(URL)
 MAX_POST=7
 
 markdown_text = """
-[쓰고싶은 내용]
-""" # list of blog posts will be appended here
+📝 My Latest Blog Posts
+"""
 
 
 for idx, feed in enumerate(RSS_FEED['entries']):
