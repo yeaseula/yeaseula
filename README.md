@@ -5,19 +5,23 @@ Front-End 개발자를 꿈꾸는<br />
 <ins>"Yeaseul"</ins> 입니다.
 
 <br />
-<br />
-
 ## ✒️My Skills
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-	![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)
-<br />
-<br />
-<br />
+### Frontend
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 
+### Styling
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Styled Components](https://img.shields.io/badge/Styled_Components-DB7093?style=for-the-badge&logo=styledcomponents&logoColor=white)
+
+### Backend
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+
+<br />
 
 ## ❣️Stuff that matters to me
 - 기획자, 디자이너, 동료 개발자와의 원활한 소통
@@ -29,7 +33,7 @@ Front-End 개발자를 꿈꾸는<br />
 ## 🚩What I've Done
 - UI/UX 퍼블리싱 실무 과정 수료, 2022.04 ~ 2022.09 
 - Wposition 개발팀 근무, 2022.09 ~ 2025.06
-- 모두의 연구소 프론트엔드 개발자 실무 과정 수료중, 2025.07 ~ 
+- 모두의 연구소 프론트엔드 개발자 실무 과정 수료, 2025.07 ~ 2025.11 
 <br />
 
 ## 😾Learning, my way
